@@ -23,3 +23,54 @@ h1 {
 }
 ```
 
+<p align="center">
+    <img src="./images/default/p.png" />
+</p>
+
+```css
+p {
+    text-align: left;
+    color: rgb(80, 80, 80);
+    line-height: 1.75;
+    font-family: PingFangSC-light, PingFangTC-light, Open Sans, Helvetica Neue, sans-serif;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    display: inline;
+}
+```
+
+<p align="center">
+    <img src="./images/default/bold.png" />
+</p>
+
+```css
+strong {
+    text-align: left;
+    color: rgba(0, 152, 116, 1);
+    line-height: 1.75;
+    font-family: -apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+```
+
+<p align="center">
+    <img src="./images/default/blockquote.png"
+</p>
+
+```css
+blockquote {
+    text-align: left;
+    color: rgb(80, 80, 80);
+    line-height: 1.75;
+    font-family: -apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    border-left: none;
+    padding: 1em;
+    border-radius: 4px;
+    background: rgba(27,31,35,.05);
+    margin: 2em 8px;
+}
+```
+
