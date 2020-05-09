@@ -5,7 +5,7 @@
 
 > 注：本示例为微信Markdown编辑器默认样式，无需任何修改即可使用。
 
-<center class="half"><img src="./images/default/h1.png"/></center>
+<p align="center"><img src="./images/default/h1.png"/></p>
 
 ```css
 h1 {
